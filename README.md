@@ -126,4 +126,4 @@ Sample for users:
 	...
 	
 	
-repeat this for each collection.
+Repeat this for each collection.
