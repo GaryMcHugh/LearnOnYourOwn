@@ -19,7 +19,7 @@ ___
 + **Database used:** MongoDB
 + **Hosting Site:** GitHub
 + **Documentation:** Project.pdf and ReadMe.md
-+ **Additional:** GitHub Issues, ZenHub Boards (Kanban board)
++ **Additional:** GitHub Issues, ZenHub Boards (Kanban board) 
 
 
 ### Deployment Details
